@@ -1,5 +1,5 @@
 print('Hello World!!!')
 name = 'Sandeep'
-age = 20
+myage = 20
 print ('Name of the person is '+ name)
-print ('Age is '+ age)
+print ('Age is '+ myage)
